@@ -1,2 +1,2 @@
 # animaldetection
-Practicing my knowledge on training data for object detection
+Practicing my knowledge on training data for object recognition
